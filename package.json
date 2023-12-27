@@ -3,13 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.2",
+    "@mui/styled-engine-sc": "^5.11.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap-icons": "^1.10.3",
+    "fa-icons": "^0.2.0",
+    "main": "^1000.0.1",
+    "redux": "^4.2.0",
+    "styled-components": "^5.3.6",
+    "react-rotating-text": "^1.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
