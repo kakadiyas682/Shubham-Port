@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ede5bfef.css",
+    "main.js": "/static/js/main.1b907066.js",
+    "static/js/787.c3f8884f.chunk.js": "/static/js/787.c3f8884f.chunk.js",
+    "static/media/IMG_0082.jpg": "/static/media/IMG_0082.6d9a6fea0a7cdfd445d1.jpg",
+    "static/media/IMG_0077.jpg": "/static/media/IMG_0077.7657d8c1a9fc995b0b18.jpg",
+    "static/media/KakadiyaShubham.pdf": "/static/media/KakadiyaShubham.19eefd006d668aa3a726.pdf",
+    "static/media/test-bg.png": "/static/media/test-bg.d62ef476231360b900e7.png",
+    "index.html": "/index.html",
+    "main.ede5bfef.css.map": "/static/css/main.ede5bfef.css.map",
+    "main.1b907066.js.map": "/static/js/main.1b907066.js.map",
+    "787.c3f8884f.chunk.js.map": "/static/js/787.c3f8884f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede5bfef.css",
+    "static/js/main.1b907066.js"
+  ]
+}
